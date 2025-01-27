@@ -1,2 +1,4 @@
 # Banking-Application
-dev using react
+
+https://ashi-bad-bank.netlify.app
+

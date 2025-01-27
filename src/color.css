@@ -1,0 +1,20 @@
+ul{
+    background-color: rgb(255, 0, 43);
+    color: white;
+    font-size: medium;
+    font-style: oblique;
+    font-family: 'Courier New', Courier, monospace;
+    padding-bottom: 15px;
+    padding-top: 16px;
+}
+input{
+    border: 2.5px solid rgba(0, 0, 0, 0.808);
+    width: 15%;
+    height: 25px;
+    color: solid sienna;
+}
+h3{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: royalblue;
+    margin-top: 0.5%;
+}

@@ -1,0 +1,180 @@
+/* home page */
+img{
+  width: 500px;
+  height: 380px;
+  margin-left: 50px;
+  margin-top: 80px;
+  float: left;
+  
+}
+#home-head{
+  margin-top: 80px;
+  margin-left: 42em;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgba(255, 0, 0, 0.603);
+}
+#homesection{
+  width: 100%;
+  float: right;
+}
+#about{
+  width: 830px;
+  margin-left: 60px;
+  margin-top: 20px;
+  display: inline-block;
+  padding: 30px;
+  font-size: 15px;
+  text-align: justify;
+  background-color: rgba(245, 245, 245, 0.925);
+}
+.car{
+margin-left: 65px;
+margin-bottom: 55px;
+float: left;
+}
+.carim{
+  margin-left: 17px;
+  margin-top: 20px;
+  height: 250px;
+  width: 300px;
+}
+
+/* craete */
+.creat{
+  margin-left: 35%;
+  margin-top: 30px;
+  margin-bottom: 55px;
+  float: left;
+  height: auto;
+  
+}
+
+/* craete */
+label{
+  font-family:'Times New Roman', Times, serif;
+  font-size: 16px;
+  color: rgba(0, 0, 0, 0.637);
+  margin-bottom: 10px;
+}
+.for{
+  margin-left: 10px;
+}
+input{
+  border-radius: 4px;
+  color: rgba(0, 0, 0, 0.603);
+  font-size: 13px;
+  height: 30px;
+  width: 180px;
+}
+Button{
+  width: 120px;
+}
+P{
+  font-size: 14px;
+  color: rgba(0, 0, 0, 0.575);
+  margin-top: -1em;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h6{
+  color: rgba(0, 0, 0, 0.473);
+  margin-top: -1.7em;
+  margin-bottom: 15px;
+  font-size: 12px;
+}
+h3{
+  font-size: 25PX;
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+center{
+  margin-top: 10px;
+  color: aliceblue;
+  font-size: 13px;
+}
+/* widraw */
+.wit{
+  margin-left: 10px;
+  margin-top: 30px;
+}
+h1{
+  margin-bottom: 19px;
+}
+.widbut{
+  height: 35px;
+margin-top: -0.1em;
+}
+/* deposit */
+
+h4{
+  margin-top: 15px;
+}
+#logo{
+  width: 55px;
+  height: 55px;
+  float: left;
+  border-radius: 14px;
+  display: inline;
+  display: flex;
+  margin-right: 5px;
+  margin-top: 1.1em;
+  margin-bottom: 20px;
+}
+#navbar:hover{
+  color: red;
+  letter-spacing: 2px;
+  transition: 1s;
+}
+#navhead:hover{
+  color: red;
+  letter-spacing: 2px;
+  transition: 1s;
+}
+
+#myimhg{
+  width: 8em;
+  height: 8em;
+  float: left;
+  border-radius: 14px;
+  display: inline;
+  display: flex;
+  margin-right: 5px;
+  margin-top: 1.1em;
+  margin-bottom: 20px;
+}
+#soc{
+  width: 270px;
+  height: 50px;
+  margin-top: -70px;
+  padding: 10px;
+  /* background-color: red; */
+  float: right;
+}
+#insta{
+  font-size: 15px;
+  color: darkorange;
+  padding-top: 30px ;
+  float: left;
+  padding-right: 8px;
+}
+#linkedin{
+  font-size: 15px;
+  color: blue;
+  padding-top: 30px ;
+  float: left;
+  padding-right: 8px;
+}
+#git{
+  color: black;
+  font-size: 15px;
+  padding-top: 30px ;
+  float: left;
+  padding-right: 8px;
+}
+span{
+  padding: 2px;
+  color: black;
+}
+section{
+  width: 100%;
+  float: right;
+}
